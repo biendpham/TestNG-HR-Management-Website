@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30042" started-at="2020-02-25T14:10:43 ICT" finished-at="2020-02-25T14:11:13 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30042" started-at="2020-02-25T14:10:43 ICT" finished-at="2020-02-25T14:11:13 ICT">
+      <class name="test.StaffTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.StaffTest@1acaf3d]" name="setUp" is-config="true" duration-ms="2620" started-at="2020-02-25T14:10:43 ICT" finished-at="2020-02-25T14:10:46 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="insertStaffTest()[pri:1, instance:test.StaffTest@1acaf3d]" name="insertStaffTest" duration-ms="26030" started-at="2020-02-25T14:10:46 ICT" finished-at="2020-02-25T14:11:12 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertStaffTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.StaffTest@1acaf3d]" name="tearDown" is-config="true" duration-ms="1353" started-at="2020-02-25T14:11:12 ICT" finished-at="2020-02-25T14:11:13 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.StaffTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
